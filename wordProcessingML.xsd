@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="p" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="pPr">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="spacing" />
+                    <xs:element name="numPr" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="ilvl" />
+                          <xs:element name="numId" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="ind" minOccurs="0" />
+                    <xs:element name="contextualSpacing" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="r" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence minOccurs="0">
+                    <xs:element name="t" minOccurs="0" type="xs:string" />
+                    <xs:element name="br" minOccurs="0" />
+                    <xs:element name="rPr" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence minOccurs="0">
+                          <xs:element name="b" minOccurs="0" />
+                          <xs:element name="bCs" minOccurs="0" />
+                          <xs:element name="u" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

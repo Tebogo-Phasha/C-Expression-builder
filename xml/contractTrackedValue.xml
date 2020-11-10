@@ -1,0 +1,50 @@
+<xml xmlns:xsi="http://w3.org/2001/XMLSchema-instance">
+  <TrackedContent>
+    <UniqueName>DealOverview_1</UniqueName>
+    <ParentPath></ParentPath>
+    <TrackName>DealOverview</TrackName>
+    <Instance>1</Instance>
+    <Value>
+      <![CDATA[<w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> <w:r> <w:t>This is a test 123</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:numPr> <w:ilvl w:val="0" /> <w:numId w:val="1" /> </w:numPr> <w:spacing w:beforeAutospacing="1" w:afterAutospacing="1" w:line="240" w:lineRule="auto" /> <w:ind w:left="780" w:right="180" /> <w:contextualSpacing /> </w:pPr> <w:r> <w:t>1 Bullet list</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:numPr> <w:ilvl w:val="1" /> <w:numId w:val="1" /> </w:numPr> <w:spacing w:beforeAutospacing="1" w:afterAutospacing="1" w:line="240" w:lineRule="auto" /> <w:ind w:left="1380" w:right="180" /> </w:pPr> <w:r> <w:t>2 Indented number</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:numPr> <w:ilvl w:val="0" /> <w:numId w:val="1" /> </w:numPr> <w:spacing w:beforeAutospacing="1" w:afterAutospacing="1" w:line="240" w:lineRule="auto" /> <w:ind w:left="780" w:right="180" /> </w:pPr> <w:r> <w:t>3</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> <w:r> <w:br /> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:numPr> <w:ilvl w:val="0" /> <w:numId w:val="2" /> </w:numPr> <w:spacing w:beforeAutospacing="1" w:afterAutospacing="1" w:line="240" w:lineRule="auto" /> <w:ind w:left="780" w:right="180" /> <w:contextualSpacing /> </w:pPr> <w:r> <w:t>Text</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:numPr> <w:ilvl w:val="0" /> <w:numId w:val="2" /> </w:numPr> <w:spacing w:beforeAutospacing="1" w:afterAutospacing="1" w:line="240" w:lineRule="auto" /> <w:ind w:left="780" w:right="180" /> </w:pPr> <w:r> <w:t>Numbered List</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> <w:r> <w:rPr> <w:b /> <w:bCs /> </w:rPr> <w:t>Bold</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> <w:r> <w:rPr> <w:u w:val="single" /> </w:rPr> <w:t>Underlined</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> </w:p>]]>
+    </Value>
+    <ValuePlainText>This is a test 123 1 Bullet list 2 Indented number 3 Text Numbered List Bold Underlined </ValuePlainText>
+  </TrackedContent>
+  <TrackedContent>
+    <UniqueName>LegalComments_1</UniqueName>
+    <ParentPath></ParentPath>
+    <TrackName>LegalComments</TrackName>
+    <Instance>1</Instance>
+    <Value>
+      <![CDATA[<w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> <w:r> <w:t>Add comments for other stakeholders in this section.  This information can be used to advise on approvals.</w:t> </w:r> </w:p>]]>
+    </Value>
+    <ValuePlainText>Add comments for other stakeholders in this section.  This information can be used to advise on approvals.</ValuePlainText>
+  </TrackedContent>
+  <TrackedContent>
+    <UniqueName>LegalSalesComments_1</UniqueName>
+    <ParentPath></ParentPath>
+    <TrackName>LegalSalesComments</TrackName>
+    <Instance>1</Instance>
+    <Value>
+      <![CDATA[<w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> <w:r> <w:t>Add comments for Sales in this section.  These comments will be deleted before it is sent for approvals.</w:t> </w:r> </w:p>]]>
+    </Value>
+    <ValuePlainText>Add comments for Sales in this section.  These comments will be deleted before it is sent for approvals.</ValuePlainText>
+  </TrackedContent>
+  <DealOverview UniqueName="DealOverview_1" ParentPath="" TrackName="DealOverview" Instance="1">
+    <Value>
+      <![CDATA[<w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> <w:r> <w:t>This is a test 123</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:numPr> <w:ilvl w:val="0" /> <w:numId w:val="1" /> </w:numPr> <w:spacing w:beforeAutospacing="1" w:afterAutospacing="1" w:line="240" w:lineRule="auto" /> <w:ind w:left="780" w:right="180" /> <w:contextualSpacing /> </w:pPr> <w:r> <w:t>1 Bullet list</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:numPr> <w:ilvl w:val="1" /> <w:numId w:val="1" /> </w:numPr> <w:spacing w:beforeAutospacing="1" w:afterAutospacing="1" w:line="240" w:lineRule="auto" /> <w:ind w:left="1380" w:right="180" /> </w:pPr> <w:r> <w:t>2 Indented number</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:numPr> <w:ilvl w:val="0" /> <w:numId w:val="1" /> </w:numPr> <w:spacing w:beforeAutospacing="1" w:afterAutospacing="1" w:line="240" w:lineRule="auto" /> <w:ind w:left="780" w:right="180" /> </w:pPr> <w:r> <w:t>3</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> <w:r> <w:br /> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:numPr> <w:ilvl w:val="0" /> <w:numId w:val="2" /> </w:numPr> <w:spacing w:beforeAutospacing="1" w:afterAutospacing="1" w:line="240" w:lineRule="auto" /> <w:ind w:left="780" w:right="180" /> <w:contextualSpacing /> </w:pPr> <w:r> <w:t>Text</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:numPr> <w:ilvl w:val="0" /> <w:numId w:val="2" /> </w:numPr> <w:spacing w:beforeAutospacing="1" w:afterAutospacing="1" w:line="240" w:lineRule="auto" /> <w:ind w:left="780" w:right="180" /> </w:pPr> <w:r> <w:t>Numbered List</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> <w:r> <w:rPr> <w:b /> <w:bCs /> </w:rPr> <w:t>Bold</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> <w:r> <w:rPr> <w:u w:val="single" /> </w:rPr> <w:t>Underlined</w:t> </w:r> </w:p><w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> </w:p>]]>
+    </Value>
+    <ValuePlainText>This is a test 123 1 Bullet list 2 Indented number 3 Text Numbered List Bold Underlined </ValuePlainText>
+  </DealOverview>
+  <LegalComments UniqueName="LegalComments_1" ParentPath="" TrackName="LegalComments" Instance="1">
+    <Value>
+      <![CDATA[<w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> <w:r> <w:t>Add comments for other stakeholders in this section.  This information can be used to advise on approvals.</w:t> </w:r> </w:p>]]>
+    </Value>
+    <ValuePlainText>Add comments for other stakeholders in this section.  This information can be used to advise on approvals.</ValuePlainText>
+  </LegalComments>
+  <LegalSalesComments UniqueName="LegalSalesComments_1" ParentPath="" TrackName="LegalSalesComments" Instance="1">
+    <Value>
+      <![CDATA[<w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"> <w:pPr> <w:spacing w:line="240" w:lineRule="auto" /> </w:pPr> <w:r> <w:t>Add comments for Sales in this section.  These comments will be deleted before it is sent for approvals.</w:t> </w:r> </w:p>]]>
+    </Value>
+    <ValuePlainText>Add comments for Sales in this section.  These comments will be deleted before it is sent for approvals.</ValuePlainText>
+  </LegalSalesComments>
+</xml>

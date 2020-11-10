@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AEEA0D9E-7C0D-4A3D-BDA8-3F397A6253D0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Expression__Builder__Dev__Helper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Expression_Builder_Dev_Helper/Program.cs">
+    <Files>
+      <File FileName="Expression_Builder_Dev_Helper/Program.cs" Line="44" Column="38" />
+      <File FileName="Expression_Builder_Dev_Helper/xml/Commenters.xml" Line="15" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Expression_Builder_Dev_Helper" expanded="True">
+            <Node name="Expression_Builder_Dev_Helper" expanded="True">
+              <Node name="xml" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
